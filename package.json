@@ -1,0 +1,20 @@
+{
+  "name": "template-electron-app",
+  "version": "1.0.0",
+  "description": "Template basico para criar aplicações desktop com Electron.js",
+  "main": "main.js",
+  "scripts": { 
+    "dev": "electronmon .",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Igor Ferreira da Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.2.0"
+  },
+  "dependencies": {
+    "electronmon": "^2.0.3"
+    
+  }
+}
